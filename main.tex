@@ -1,0 +1,38 @@
+% ============================================================
+%  main.tex — THE POWER OF ATTRACTION IN 'ALI
+%  Framework file. To reuse for a future talk:
+%    1. Edit the metadata block below.
+%    2. Add/remove \input lines to match your sections.
+%    3. Write each section's content in sections/*.tex using the
+%       helper commands defined in talkstyle.sty (\bigquote,
+%       \examplenote, \delivernote, qaframe/\qa ...).
+%  Compile with: pdflatex main.tex   (run twice for page count)
+% ============================================================
+\documentclass[11pt,aspectratio=169]{beamer}
+\usepackage{talkstyle}
+
+% ---------------- EDIT THIS BLOCK ----------------
+\newcommand{\presentername}{Seyed Mohammad Abuzar Hashemi} % footer name
+\title{The Power of Attraction in Imam Ali (A.S.)}
+\subtitle{Reflections on Ayatullah Murtadha Mutahhari's\\ \textit{Polarization Around the Character of Imam 'Ali}}
+\author{\presentername}
+\date{} % leave blank, or e.g. \date{August 2026}
+% --------------------------------------------------
+
+\begin{document}
+
+\begin{frame}[plain]
+  \titlepage
+\end{frame}
+
+% -------- Content sections (one file per talk section) --------
+\input{sections/00_recap.tex}
+\input{sections/01_opening.tex}
+\input{sections/02_attractions.tex}
+\input{sections/03_shiism.tex}
+\input{sections/04_elixir.tex}
+\input{sections/05_barriers.tex}
+\input{sections/06_closing.tex}
+\input{sections/07_quickref.tex}
+
+\end{document}

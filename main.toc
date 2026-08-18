@@ -1,0 +1,9 @@
+\babel@toc {english}{}\relax 
+\beamer@sectionintoc {1}{Recap}{2}{0}{1}
+\beamer@sectionintoc {2}{Opening}{4}{0}{2}
+\beamer@sectionintoc {3}{Powerful Attractions}{6}{0}{3}
+\beamer@sectionintoc {4}{Shi'ism, the Religion of Love}{9}{0}{4}
+\beamer@sectionintoc {5}{The Elixir of Love}{11}{0}{5}
+\beamer@sectionintoc {6}{Breaking Down the Barriers}{13}{0}{6}
+\beamer@sectionintoc {7}{Closing}{15}{0}{7}
+\beamer@sectionintoc {8}{Quick Reference}{17}{0}{8}
